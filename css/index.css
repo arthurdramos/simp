@@ -5,3 +5,9 @@ body {
 .Logo {
     width: 40px;
 }
+
+@media (max-width: 1200px) {
+    .Logo {
+        padding: 5px;
+    }
+}
