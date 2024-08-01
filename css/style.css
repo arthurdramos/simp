@@ -2743,8 +2743,7 @@ textarea.form-input {
 }
 
 .thumbnail {
-	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);
-	border-radius: 4px;
+	background-color: red;
 	overflow: hidden;
 	display: inline-block;
 }
